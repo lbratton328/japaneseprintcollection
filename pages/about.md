@@ -20,7 +20,7 @@ padding: 6em
 
 ## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features Japanese prints from Connecticut College's Campus Art Collections [Campus Art Collections](https://conncoll.lunaimaging.com/luna/servlet/allCollections), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
