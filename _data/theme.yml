@@ -8,8 +8,8 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: jp24
-featured-image-alt-text: Night Rain at Karasaki, from the series Eight Views of Ōmi by Utagawa Hiroshige
+featured-image: jp15
+featured-image-alt-text: Ueno in Iga Province, no. 6 from the series Pictures of Famous Places in the Sixty-odd Provinces by Utagawa Hiroshige
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is center
