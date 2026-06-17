@@ -8,11 +8,10 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://lbratton328.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
-# location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+baseurl: /japaneseprintcollection
+source-code: https://github.com/lbratton328/japaneseprintcollection
 
 ##########
 # SITE SETTINGS
@@ -23,7 +22,7 @@ title: Japanese Print Collection
 tagline: Connecticut College
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: 
+description: This is a teaching collection of Japanese woodblock prints owned by Connecticut College
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: woodcut; Japan; Shain Library; Connecticut College
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -50,7 +49,7 @@ metadata: japaneseprintcollection
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Shain Library"
+organization-name: "Shain Library at Connecticut College"
 organization-link: https://www.conncoll.edu/library-information-technology//libraries/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: 
