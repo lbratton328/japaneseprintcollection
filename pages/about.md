@@ -20,4 +20,4 @@ padding: 6em
 
 ## About
 
-This collection features Japanese prints from Connecticut College's Campus Art Collections [Campus Art Collections](https://conncoll.lunaimaging.com/luna/servlet/allCollections), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features Japanese prints from Connecticut College's [Campus Art Collections](https://conncoll.lunaimaging.com/luna/servlet/allCollections), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
